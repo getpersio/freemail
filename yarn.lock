@@ -1484,10 +1484,10 @@ through@^2.3.8, through@~2.3.4:
   resolved "https://registry.yarnpkg.com/through/-/through-2.3.8.tgz#0dd4c9ffaabc357960b1b724115d7e0e86a2e1f5"
   integrity sha512-w89qg7PI8wAdvX60bMDP+bFoD5Dvhm9oLheFp5O4a2QF0cSBGsBX4qZmadPMvVqlLJBBci+WqGGOAPvcDeNSVg==
 
-tldjs@1.8.0:
-  version "1.8.0"
-  resolved "https://registry.yarnpkg.com/tldjs/-/tldjs-1.8.0.tgz#b9c16bd6de357b55ffcbe7d5be41f6b3ca76e3fa"
-  integrity sha512-oJHVrNdgPYlU7vszbSBMYDykdnJ8DmjaGML5KysOn2MIYtnpl1Yn+bCSF/vNo8vZkd0U+eRGg1qkQjHDLD/Teg==
+tldjs@2.3.1:
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/tldjs/-/tldjs-2.3.1.tgz#cf09c3eb5d7403a9e214b7d65f3cf9651c0ab039"
+  integrity sha512-W/YVH/QczLUxVjnQhFC61Iq232NWu3TqDdO0S/MtXVz4xybejBov4ud+CIwN9aYqjOecEqIy0PscGkwpG9ZyTw==
   dependencies:
     punycode "^1.4.1"
 
