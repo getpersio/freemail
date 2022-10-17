@@ -28,6 +28,6 @@
     "url": "git://github.com/getpersio/freemail.git"
   },
   "dependencies": {
-    "tldjs": "1.5.2"
+    "tldjs": "1.8.0"
   }
 }

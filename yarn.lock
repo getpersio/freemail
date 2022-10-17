@@ -1280,6 +1280,11 @@ prelude-ls@^1.2.1:
   resolved "https://registry.yarnpkg.com/prelude-ls/-/prelude-ls-1.2.1.tgz#debc6489d7a6e6b0e7611888cec880337d316396"
   integrity sha512-vkcDPrRZo1QZLbn5RLGPpg/WmIQ65qoWWhcGKf/b5eplkkarX0m9z8ppCat4mlOqUsWpyNuYgO3VRyrYHSzX5g==
 
+punycode@^1.4.1:
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/punycode/-/punycode-1.4.1.tgz#c0d5a63b2718800ad8e1eb0fa5269c84dd41845e"
+  integrity sha512-jmYNElW7yvO7TV33CjSmvSiE2yco3bV2czu/OzDKdMNVZQWfxCblURLhf+47syQRBntjfLdd/H0egrzIG+oaFQ==
+
 punycode@^2.1.0:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-2.1.1.tgz#b58b010ac40c22c5657616c8d2c2c02c7bf479ec"
@@ -1479,10 +1484,12 @@ through@^2.3.8, through@~2.3.4:
   resolved "https://registry.yarnpkg.com/through/-/through-2.3.8.tgz#0dd4c9ffaabc357960b1b724115d7e0e86a2e1f5"
   integrity sha512-w89qg7PI8wAdvX60bMDP+bFoD5Dvhm9oLheFp5O4a2QF0cSBGsBX4qZmadPMvVqlLJBBci+WqGGOAPvcDeNSVg==
 
-tldjs@1.5.2:
-  version "1.5.2"
-  resolved "https://registry.yarnpkg.com/tldjs/-/tldjs-1.5.2.tgz#4dc60db9988100f0a33ede460cadf1d576fa2e38"
-  integrity sha512-pfb1iUxuRkfDQBKEjMmrBKsMEkinip64lo1O303GS8+bpi1rZ/8PuofUcUXj67UMHPxRTOdefpbZB/4mvxTrQQ==
+tldjs@1.8.0:
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/tldjs/-/tldjs-1.8.0.tgz#b9c16bd6de357b55ffcbe7d5be41f6b3ca76e3fa"
+  integrity sha512-oJHVrNdgPYlU7vszbSBMYDykdnJ8DmjaGML5KysOn2MIYtnpl1Yn+bCSF/vNo8vZkd0U+eRGg1qkQjHDLD/Teg==
+  dependencies:
+    punycode "^1.4.1"
 
 to-regex-range@^5.0.1:
   version "5.0.1"
