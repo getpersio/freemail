@@ -77,10 +77,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-18.11.0.tgz#f38c7139247a1d619f6cc6f27b072606af7c289d"
   integrity sha512-IOXCvVRToe7e0ny7HpT/X9Rb2RYtElG1a+VshjwT00HxrM2dWBApHQoqsI6WiY7Q03vdf2bCrIGzVrkF/5t10w==
 
-"@types/tldjs@2.3.1":
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/@types/tldjs/-/tldjs-2.3.1.tgz#ad7a387356ac178d631d43f9113b782d9e1f24ed"
-  integrity sha512-BQR04zLE0ve2eNrqxXw/Qp/f6LxvNrj/4A8ZgdQi3SzbBqxFhleI7N4DS/mSjDnODrUaEGgoWg4grAZR1kVj8w==
+"@types/tldjs@2.3.4":
+  version "2.3.4"
+  resolved "https://registry.yarnpkg.com/@types/tldjs/-/tldjs-2.3.4.tgz#5f5f119d34e4953ba77c5e50247ac01ebb2c50bb"
+  integrity sha512-QVjtDOA3H6c+6uB+8018XwXUMR9WJ0zaA68lqXmzXETKkp/XD3t0GGyo6OWoKhVT9qVX28RW+zcOuyonIxqEbQ==
 
 "@typescript-eslint/eslint-plugin@5.40.0":
   version "5.40.0"
