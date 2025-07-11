@@ -13,7 +13,7 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "18.11.0",
-    "@types/tldjs": "2.3.1",
+    "@types/tldjs": "2.3.4",
     "@typescript-eslint/eslint-plugin": "5.40.0",
     "@typescript-eslint/parser": "5.40.0",
     "esbuild": "0.15.11",
@@ -28,6 +28,6 @@
     "url": "git://github.com/getpersio/freemail.git"
   },
   "dependencies": {
-    "tldjs": "2.3.1"
+    "tldjs": "2.3.2"
   }
 }
